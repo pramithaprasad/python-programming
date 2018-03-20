@@ -1,7 +1,7 @@
-q=int(input("number 1"))
-w=int(input("number 2"))
-for i in range(q,w-1):
-  if(i%2==0):
-    print(i+1)
+num1=int(input("number 1"))
+num2=int(input("number 2"))
+for a in range(num1,num2-1):
+  if(a%2==0):
+    print(a+1)
   
  
