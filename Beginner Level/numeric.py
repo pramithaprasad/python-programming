@@ -1,2 +1,2 @@
-a=input("value")
-print(a.isnumeric())
+v=input("value")
+print(v.isnumeric())
