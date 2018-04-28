@@ -1,10 +1,10 @@
-n1=input("enter the string 1")
-n2=input("enter the string 2")
-s=len(n1)
-a=len(n2)
+x=input("enter the string 1")
+y=input("enter the string 2")
+s=len(x)
+a=len(y)
 if(s>a):
-    print(n1)
+    print(x)
 elif(a>s):
-    print(n2)
+    print(y)
 else:
-    print(n2)
+    print(y)
